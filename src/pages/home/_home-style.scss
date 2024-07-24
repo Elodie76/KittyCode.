@@ -1,0 +1,4 @@
+.home {
+    background-image: url('../../../src/assets/images/background/background-home-page.webp');
+    @include background-image();
+}

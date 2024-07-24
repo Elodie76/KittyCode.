@@ -1,0 +1,4 @@
+.about {
+    background-image: url('../../../src/assets/images/background/personal-lofi-pict-winter.png');
+    @include background-image();
+}

@@ -1,0 +1,13 @@
+//colors
+$links-header-color: #ffffff;
+
+//fontfamilly
+$font-family-zain: "Zain", sans-serif;
+
+
+//mixins
+@mixin background-image() {
+    height: 100vh;
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.1);
+    }

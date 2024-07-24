@@ -1,0 +1,17 @@
+// SASS /
+
+    // base /
+        @import 'base/normalize';
+        @import 'base/variables';
+
+    // pages /
+        @import 'pages/home/home-style';
+        @import 'pages/About/about-style';
+        
+    // modules /
+        @import 'modules/header/header-style';
+        @import 'modules/footer/footer-style';
+
+    // components /
+        @import 'Components/navbar/navbar-style';
+        @import 'Components/citation/citation-style';
